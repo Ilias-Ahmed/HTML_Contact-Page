@@ -2,7 +2,6 @@
 
 A simple and clean contact page built with HTML, providing easy access to my professional contact information and social media profiles.
 
-![Contact Page Preview](screenshot.png)
 
 ## 📱 Features
 
